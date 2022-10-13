@@ -1,7 +1,7 @@
-class
+class Test
 {
-	public statis void main(String args[])
+	public statis void m2()
 	{
-		System.out.println("Hello World");
+		System.out.println("Hey inside m2()");
 	}
 }
